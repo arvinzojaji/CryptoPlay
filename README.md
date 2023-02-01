@@ -28,9 +28,3 @@ CryptoPlay is a virtual currency playground designed to simulate buying and sell
 [Altaf Dasurkar](https://github.com/altafdkr)
 
 [Kaliesha Pickering](https://github.com/kalieshapickering)
-
-### Link to game
-
-Play [CryptoPlay !](https://kalieshapickering.github.io/CryptoPlay/index.html)
-
-

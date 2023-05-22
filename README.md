@@ -16,14 +16,8 @@ CryptoPlay is a virtual currency playground designed to simulate buying and sell
 #### Sign-up Page
 ![CryptoPlay sign-up Page](assets/images/cryptoplay-signup-page.png)
 
-
-### Firebase
-![firebase user](assets/images/firebase-user.png)
-![Firebase wallet](assets/images/firebase-wallet.png)
-
-
 ### Contributors
-[Arvin Zojaji](https://github.com/arv433)
+[Arvin Zojaji](https://github.com/arvinzojaji)
 
 [Altaf Dasurkar](https://github.com/altafdkr)
 

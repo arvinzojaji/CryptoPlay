@@ -15,10 +15,3 @@ CryptoPlay is a virtual currency playground designed to simulate buying and sell
 ![CryptoPlay Portfolio Page](assets/images/cryptoplay-portfolio-page.png)
 #### Sign-up Page
 ![CryptoPlay sign-up Page](assets/images/cryptoplay-signup-page.png)
-
-### Contributors
-[Arvin Zojaji](https://github.com/arvinzojaji)
-
-[Altaf Dasurkar](https://github.com/altafdkr)
-
-[Kaliesha Pickering](https://github.com/kalieshapickering)

@@ -7,11 +7,11 @@ CryptoPlay is a virtual currency playground designed to simulate buying and sell
 ### Snapshot/video
 ![CryptoPlay Video Demo](https://thumbs.gfycat.com/ImpassionedSmartDragonfly-size_restricted.gif)
 
-#### Homepage
+#### Landing
 ![CryptoPlay Index Page](assets/images/cryptoplay-index.png)
 #### Display Graph
 ![CryptoPlay Graph](assets/images/cryptoplay-graph.png)
-#### Portfolio Page
+#### Portfolio
 ![CryptoPlay Portfolio Page](assets/images/cryptoplay-portfolio-page.png)
-#### Sign-up Page
+#### Sign-up
 ![CryptoPlay sign-up Page](assets/images/cryptoplay-signup-page.png)
